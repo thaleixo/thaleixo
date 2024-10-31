@@ -2,6 +2,9 @@
 
 -🖥️ Developer
 
+-Python
+-Java
+-React
 
 
 
