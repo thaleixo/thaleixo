@@ -4,7 +4,6 @@
 
 -Python
 -Java
--React
 
 
 
