@@ -2,8 +2,9 @@
 
 -🖥️ Developer
 
--Python
--Java
+-Python / Django
+
+-Java / Spring 
 
 
 
